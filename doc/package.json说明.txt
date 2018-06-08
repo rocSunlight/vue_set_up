@@ -1,0 +1,5 @@
+devDependencies 存放生产环境的插件   --save-dev
+
+dependencies 存放项目的插件	     --save
+
+

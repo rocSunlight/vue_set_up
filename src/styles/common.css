@@ -1,0 +1,14 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+}
+* {
+    box-sizing: border-box;
+}
+
+#app{
+  width: 10rem;
+  max-width: 100%;
+  margin: 0 auto;
+}
